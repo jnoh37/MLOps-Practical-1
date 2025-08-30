@@ -8,5 +8,5 @@ This is my first GitHub repository for the MLOps practical session.
 ## Edited on GitHub Web
 
 ## About Me
-Hi, I’m <jnoh>.
+Hi, I’m jnoh.
 I’m learning how to use GitHub Issues.
