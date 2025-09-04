@@ -1,0 +1,7 @@
+Please read through all the information in the syllabus carefully, so you can start the course maximally informed. Some notes of importance you might miss when delaying reading the syllabus (not recommend) before we start:
+
+This course requires 9-14 hours of work each week.
+We offer two on-campus modes of instruction on Mondays: lectures, and practicals. Attendance is not mandatory, but strongly recommended.
+The lectures discuss practicalities about the different topics (i.e., how and why are things used for software deployment), and will additionally focus on creating healthy model ecosystems.
+The practicals provide a space for instruction, to work on the portfolio scope for that week, and to ask questions about practicalities.
+You're expected to submit weekly portfolio entries for formative feedback and reflection. At the end of the course, these, in combination with a final reflection report, will be graded for 100% of the course grade. 
